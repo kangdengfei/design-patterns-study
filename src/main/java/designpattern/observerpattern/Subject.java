@@ -3,11 +3,9 @@ package designpattern.observerpattern;
 import java.util.ArrayList;
 import java.util.List;
 
-
 /**
  * created  by KDF on 2017/11/14.
  */
-
 
 public class Subject {
     private List<Observer> observers = new ArrayList<Observer>();

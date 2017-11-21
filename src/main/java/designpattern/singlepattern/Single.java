@@ -1,4 +1,4 @@
-package designpattern.single;
+package designpattern.singlepattern;
 
 /**
  * created  by KDF on 2017/11/14.
