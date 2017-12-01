@@ -5,3 +5,5 @@
   * [观察者模式](https://github.com/kangdengfei/TestDemo/tree/master/src/main/java/designpattern/observerpattern)
   * [适配器模式](https://github.com/kangdengfei/TestDemo/tree/master/src/main/java/designpattern/adapterpattern)
   * [装饰模式](https://github.com/kangdengfei/TestDemo/tree/master/src/main/java/designpattern/decoratorpattern)
+  * [策略模式](https://github.com/kangdengfei/TestDemo/tree/master/src/main/java/designpattern/strategypattern)
+  * [桥接模式](https://github.com/kangdengfei/TestDemo/tree/master/src/main/java/designpattern/bridgepattern)
